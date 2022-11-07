@@ -28,7 +28,6 @@ public class DataTypes {
 		in++;
 		System.out.println(in);
 		
-
 	}
 
 }
